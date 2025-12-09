@@ -2,7 +2,7 @@ name: Hello World
 on:
   workflow_dispatch:
 jobs:
-  new:
+  ghapractice01:
     runs-on: ubuntu-latest
     steps:
       - name: sample
